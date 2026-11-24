@@ -1,0 +1,4 @@
+include:
+    - project: 'brgm/pni/galaxy/container-images/job-template'
+      ref: main
+      file: '.gitlab-ci.yml'
